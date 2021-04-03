@@ -21,5 +21,5 @@ Hardware Spec
 Notes
 
 1. I removed the wifi & bluetooth card that came with this motherobard.
-2. The default Opencore config.plist did not work. I had to enable ReleaseUsbOwnership.
+2. Your USB port mapping might be different as I also enabled two front USB ports. Search "USB Port Mapping" in youtube and make your own patch in that case.
 3. If you don't have Titan Ridge, open config.plist and remove `SSDT-Z370-TB3HP.aml` entry.
