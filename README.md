@@ -9,7 +9,7 @@ Everything seems to be working so far.
 
 Hardware Spec
 
-* Monitor: LG 5K
+* Monitor: LG Ultrafine 5K
 * Motherboard: Gigabyte Z370 AORUS ULTRA GAMING WIFI
 * CPU: Intel Core i7-8700 3.2 GHz 
 * HDD: Samsung 500GB 960 EVO NVMe 
