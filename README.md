@@ -11,7 +11,7 @@ Hardware Spec
 
 * Monitor: LG 5K
 * Motherboard: Gigabyte Z370 AORUS ULTRA GAMING WIFI
-* CPU: Intel Core i&-8700 3.2 GHz 
+* CPU: Intel Core i7-8700 3.2 GHz 
 * HDD: Samsung 500GB 960 EVO NVMe 
 * GPU: MSI Gaming Radeon RX 570 8GB (RX 570 ARMOR MK2 8G OC)
 * Thunderbolt: Titan Ridge
